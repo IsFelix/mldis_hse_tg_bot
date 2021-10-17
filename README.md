@@ -1,2 +1,2 @@
-# mldis_hse_tg_not
-Telegram bot (
+# Telegram bot
+HSE Machine learning and data intensive systems HW 3
